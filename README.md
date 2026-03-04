@@ -87,3 +87,7 @@ go run main.go
 ```
 
 El servidor queda disponible en `http://localhost:8080`.
+
+## IMAGEN DE SERVIDOR CORRIENDO
+
+![alt text](2026-03-03_21-06-03.png)
